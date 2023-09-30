@@ -216,9 +216,9 @@ void draw() {
   background(img);
   float dt = 1.0/frameRate;
   update(dt);
-  //println(frameRate);
+  println(frameRate);
 
-  Circle sun = obstacles[0];
+  //Circle sun = obstacles[0];
   lightFalloff(1, 0, 0);
   spotLight(255, 255, 255, 110, 110, 0, 1, 0, 0, PI/2, 2);
   spotLight(255, 255, 255, 110, 110, 0, 0, 1, 0, PI/2, 2);
