@@ -4,7 +4,7 @@
 A simple Pinball Simulation created for CSCI 5611
 
 ## Demo
-
+[YouTube Demo](https://youtu.be/iLWauZHaMYc)
 ### Features & Timestamps
 1. 01:36 - Basic Pinball Dynamics
     The ball can be seen accelerating as it falls and bouncing naturally with multiple objects
