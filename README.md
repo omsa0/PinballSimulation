@@ -1,7 +1,7 @@
 # PinballSimulation
 ![Image of the Game](pinballsim.png)
 
-A simple Pinball Simulation created for CSCI 5611
+A simple Pinball Simulation created for CSCI 5611 by Omar Salem
 
 ## Demo
 [YouTube Demo](https://youtu.be/iLWauZHaMYc)
