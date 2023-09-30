@@ -1,5 +1,5 @@
 # PinballSimulation
-![Image of the Game](game.png)
+![Image of the Game](pinballsim.png)
 
 A simple Pinball Simulation created for CSCI 5611
 
