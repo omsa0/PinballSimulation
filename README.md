@@ -39,8 +39,8 @@ To do so, after opening the Processing editor, you can go to `Sketch > Import Li
 All code used was either written by me or provided in class, with the exception of a function that I didn't know about, so I got it through ChatGPT and it is credited in the comments
 
 ### Images
-For all the planet and sun textures - [solarsystemscope.com](solarsystemscope.com)
+For all the planet and sun textures - [solarsystemscope.com](https://www.solarsystemscope.com)
 
 For the asteroid texture - <a href="https://www.freepik.com/free-photo/abstract-wall-stone-texture_39252485.htm#query=asteroid%20texture&position=10&from_view=keyword&track=ais">Image by YusufSangdes</a> on Freepik
 
-For the background image - [Pexels.com](pexels.com)
+For the background image - [Pexels.com](https://www.pexels.com)
