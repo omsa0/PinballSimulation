@@ -36,6 +36,8 @@ To do so, after opening the Processing editor, you can go to `Sketch > Import Li
 ## Attribution
 
 ### Code
+Code can be found on the [github page](https://github.com/omsa0/PinballSimulation)
+
 All code used was either written by me or provided in class, with the exception of a function that I didn't know about, so I got it through ChatGPT and it is credited in the comments
 
 ### Images
